@@ -52,3 +52,7 @@ Python, Pandas, NumPy, Google Gemini API (`google-genai`, function calling), Gra
 5. Cell 8 prints a temporary public link. Anyone with the link can use the app with **your** key and quota, so do not share it, and stop the cell when you are done.
 
 Never commit an API key to this repository.
+
+<img width="1646" height="742" alt="image" src="https://github.com/user-attachments/assets/12b7e103-0098-42b7-be3e-7a9d1bc541c1" />
+
+<img width="1690" height="732" alt="image" src="https://github.com/user-attachments/assets/95c7a29a-d92f-4093-a008-16664231736a" />
